@@ -177,3 +177,174 @@ Stikka: (shouldnt the nexecutor be leading everyone? captain's words are puzzlin
 # 12. Burning Snow
 
 Above the equator, at a certain point in the Astral Dome orbit.
+
+**Koyuna Naraku**: Kessler, i authorize the Division #3 to utilize certain Vault's restored functions, Shara, your Divison #13 will provide technical support, this time, we must reclaim what is rightfully for "The Lord".
+
+Kessler: the coordinates are set, lets depoly 50% of the Meteor Force as per protocol, we need to locate the Matrix.
+Shara: the ultra long range data linkage module for the AD is still in debugging. Sending the first batch of probe units like this, we will have to rely on their autonomous configuration. (this sounds like a bunch of nothing) This will hinder full combat effectiveness, kessler, i dont think we should rush, we still have time.
+Kessler: the moment the Matrix's energy signature appeared in Moswof, NE wasnt far behind it, **its hard to believe they werent after the same thing**. Captain Kana's intelligence network runs deep. Moreover, "to verify the feasibility of swiftly penetrating SDUs interior defenses", wasnt this what this batch of probe machines were created for?
+Shara: alright, do as you suggested, i hope they wont be interfered prematurely.
+
+...
+
+Unknown place in Moswof.
+
+Kirov: Kina, you alr? we lost contact for quite some time.
+Kina: there was a breakthrough in the research and i couldnt break away.
+Kirov: the riots have temporarily subsided, but Jack was kidnapped and found dead in his safe house / apartment.
+Kina: who did it?
+Kirov: your girl, velvet, jack's terminal was destroyed as well, im uncertain what information she may have seized.
+Kina: with what i know, Velvet couldnt have killed Jack, theres unknown factions at play, either way the situation has become way more complex.
+Kirov: the snow in SDU is about to stop, us hiding in the snowstorm will soon be exposed.
+Kina: i will handle it, whether it was in SDU's crisis... or...
+
+Kirov: how is the research progressing that you mentioned?
+Kina: we have now managed to make that "thing" (Matrix) emit energy at a specific frequency, we ae currently preparing to debug the receiving device. Barring any issues, battlefield testing will be possible soon.
+Kina: everything will be alright, rest assured.
+
+...
+
+Stikka: Dawnlight was introduced in batches through Kosri, distributed with predetermined quotas across various organizations.
+Nex: Kosri is just a middleman? no manufacturer?
+Louise: so far, 170k units have been sold, staggering number.
+(some "data package" shit was found and they "uncovered" it, seriously what the fuck is this game even doing with such terminology it doesnt make sense)
+Stikka: dawnlight was introduced by svetkina?
+Louise: cross referencing and data analysis comparisons confirms authenticity, its not forged information, she played a role in establishing the distribution channels.
+
+(The reason Icicle's father, Kirov and her sister Kina didnt talk with icicle related to "work" is because both Kirov and Kina knew that they were intentionally establishing distribution channels across the city to introduce dawnlight implants.)
+
+Louise: Jack had conducted some secret investigation onto Kina, and this data package (larp larp larp sahur) repeatedly marked a coordinate in the lower city, video data suggests an underground mine, over the past 2 years, svetkina has been frequenting this place, staying for periods ranging from hours to days.
+
+...
+
+Outside Moswof, Mine No. 82
+
+Icicle: NTCs automatons, why are they here!
+Stikka: SDUs border defenses are reputed to be impenetrable, how did they breach in?
+Nex: dont underestimate their capacity, and their cunning.
+Louise: NTC took considerable risk being here, looks like something of significance is in the mine.
+
+...
+
+Louise: here we are at the coordinates where jack's terminal indicated.
+Icicle: the entrance is breached already!
+
+...
+
+Kessler: the NE, theyve come for the Matrix! but where is that woman (svetkina) hiding!?
+Shara: this could be our chance, that woman's sister (svetkina's sister, icicle) might lead us to her.
+
+...
+
+The mine tunneled deeper all the way into the undergound of Moswof, at the deepest point was a laboratory.
+
+Stikka: secret base?
+Louise: some sort of powerful energy is blocking all signals in this area, the devices here they are all emitting an unknown energy, similar to dagny particles but with higher energy levels and frequencies.
+
+*Icicle finds a photo of her and her sister at the amusement park, it was taken on "their birthday" when they were kids, Svetkina has always kept it with her.*
+
+(backstory shit)
+Kina: A code! Solve this: The brightest light in the day shows the way in, and the brightest light at night shows the way out.
+Kina: the sun and the moon! the sun at the entrance represents me, and the moon at the exit represents lana!
+
+...
+
+Following icicle, the NE squad emerged onto the surface through a hidden passage from the underground base, they are at an abandoned amusement park on the city's outskirts, where heavy snowfall stopped some time ago.
+
+A high speed target approached from the air, some back objects eploded and too many automatons emerged. (Meteor Force?)
+
+Louise: Armed Landing Pods!
+Icicle: where did these suddenly come from, the AD?
+Louise: thats the only possibility, not a good news.
+
+...
+
+While they were clearing the airborne troops, inside Moswof:
+
+The screens that displayed advertisements on the street suddenly displayed same visuals, a trove of records, pictures and videos implicating Svetkina Miko in the manipulation of the transaction of dawnlight.
+
+poor civillian A: turns out, we have been used as lab rats by the SDUs top leaders for drug testing?
+Brotherhood officer: yes, kina and her father are complicit!
+poor civillian B: we get implanted with dawnlight and deplete our lives just to let these tycoons live more comfortably? 
+civillian A: damn them! lets storm the central area and find this woman, we cant let her slip away!
+
+The riots had a recrudescence.
+
+...
+
+In the center of the amusement park, under the ferris wheel, stood svetkina facing velvet, who was fully armed.
+
+velvet: the high level officials instructing dawnlight to trade was playing on the screens all over the city.
+Kina: as you see, im the one who introduced dawnlight.
+
+*velvet points her gun towards kina*
+
+velvet: WHY!? *shoots, the bullet streaks past svetkina* should those people in the lower city just be abandoned!?
+Kina: no one was forced, the purchases by the people were made voluntarily.
+velvet: isolating them beyond a high wall, depriving them of food if they didnt work hard, and the Brotherhood's induced spread of dawnlight, you call this voluntary?
+kina: it was a miscalculation, they became too greedy and it got out of hand, i was cleaning it up already.
+velvet: ive aways believed you were someone who pursued justice, ive always lookedup to you.
+kina: everyone has their own justice, its just that our interpretations of justice has been different from the start.
+velvet: yours sacrifices the lives of common people for your own interests!?
+
+*enter NE intervention.*
+
+velvet: lets ask the director why she sent a killer to silence us both.
+kina: i didnt order anything of that, it must be... those people...
+velvet: oh? arent you all the same?
+kina: velvet, SDU isnt as beautiful as you think, without dawnlight we would gradually fall into resource disadvantage on the Far North battlefield and be invaded and cannibalised bit by bit, its not the thing that can save SDU, but as long as we could hold a little longer, we could complete the research on that "Thing" (Matrix). Chaos is a necessary sacrifice, if the sacrifice of a few can achieve the greater good, we have to accept it.
+
+Icicle: sis, did you really mean what you just said?
+kina: ...
+Icicle: SDUs light should shine on everyone, not just on the selected few, this should never be the justice of the Miko family!
+kina: lana...
+
+Nex: attention! a multitude of enemy units approached in direction 244.
+
+...
+
+In the Astral Dome / AD, kessler looked at the synchronized images sent back by the Meteor Force with a pale face, the troops previously dispatched were destroyed by the syncers. 
+
+Kessler: these annoying NE people... Shara, i need access to the Rainbow Ion Cannon.
+Shara: seriously? it took me 3 months to just restart it reluctantly, its far from being able to put to actual use!
+Kessler: im not negotiating with you, the 13th division is just responsible for fixing and maintaining it, as for how to use it, this is the power of the 3rd division "War Sequence" 
+Shara: the current energy reserve can only allow it to be fired at 15% power, once fired forcibly, the entire weapon body structure may fall apart.
+Kessler: Lord Naraku wants to take back the Matrix at all costs, even if we lose this cannon, we must achieve that goal! on my orders: AD attack sequence  0023, permission code KX2038S72Q9, Rainbow Ion Cannon, start charging!
+
+...
+
+In the AD, a huge fort that had been dormant for a long time was activated, the muzle of the cannon rotated and was pointed towards the north, as the violent light gathered, a ball of hot plasma shot out in an instant, crossing the sky over the northern hemisphere. 
+
+Louise: these automatons are elite units, they are transported directly into the enemy's hinterland.
+
+Stikka: alert! high energy reaction detected in the air!
+Nex: distance is 150 kilometers, energy signature is high energy plasma, estimated ime of arrival... 10 seconds!
+Louise: wow, this is NTCs area destruction weapon!
+Stikka: DS field at max power!
+Louise: DS field cant intercept an attack of this magnitude.
+
+...
+
+Kina walked forward gently, a strange crystal appeared in her palm, emitting a blu-ish white light. At the same time, countless weird blue patterns appeared on her body.
+Kina: Even when there is no sun, the moonlight in the dark night is enough to illuminate the way forward.
+
+Svetkina reached out her head as if touching the sky, the crystal cube burst into light that was impossible to look at directly, a huge arc-shaped energy field enveloped everyone in an instant.
+
+The shot plasma shell scattered the clouds and struck with a long trail, the terrifying light and heat filled the surrounding area in a blink!
+
+...
+Kina now lies in icicle's laps.
+Kina: this crystal was brought out by an NTC scientist when he defected... it it said that it is the key to NTC's rise... i spent a long time studying it, but i couldnt control its power entirely. The hope of defeating NTC may lie in this crystal, now I turn it over to you.
+
+In icicle's arms, svetkina slowly closed her eyes and her body gradually turned into scattered crystal dust and disappeared in the wind, on her face was a happy and a satisfied smile. 
+
+...
+
+A few days later, in SDU upper city, a silent ceremony had to come to an end.
+
+Icicle: winter is over.
+Kirov: the anger of the people has been quelled by the last heavy snowfall in SDU.
+
+Icicle gently stood up and shook her father's veined hand, just as she had done when she was a kid.
+Her father responded with a kind smile. 
+In the corner, unknown flowers were quietly growing.
