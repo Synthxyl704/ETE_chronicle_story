@@ -1,4 +1,4 @@
-Frontel City - Has a neutral trading port.
+**Frontel City** - Has a neutral trading port.
 
 **Astral Dome (AD)** - An orbital structure built by NTC, intended to dominate the world, was ultimately brought to an end by HU in Star Ring War (SRW)
 
@@ -33,8 +33,10 @@ Based on the ancient royal knights, ESW has formed three knight legions, highly 
 
 **Balde Industrien (BIS)** - A giant industrial group specializing in chemicals, smelting, materials, and machinery manufacturing, with strong capabilities in weapon development, particularly in live ammunition, where it holds a virtual monopoly.
 
-**NE Mess Hall** - Known as HUs top mess hall, primarily staffed by head chef Tsukushi and assistants Yukiwari (part time) and Silverspoon (part time)
-another 
+**NE Mess Hall** - Known as HUs top mess hall, primarily staffed by head chef Tsukushi and assistants Yukiwari (part time) and Silverspoon (part time).
+
 **Infiltrator** - A battlefield single-person vehicle designed specially for NE Nexecutors, equipped with a full-spectrum invisibility device, DS field, comprehensive detection modules and the auxiliary psycho link to ensure effective and safe command operations.
 
 **Test subject 01** - The ultimate artificial life created by NTC, mysteriously vanished after an internal upheaval. Rumors have it that Kana Reinhart of NE is the only one who knows its whereabouts.
+
+**Automaton** - An armed unit mass-produced by NTC after switching from manned mechas to autonomous weaponry, now in the fourth generation with highyl advanced collective intelligence. Due to technology leaks from previous automatons, many factions have replicated these units as a supplement to ETE.
