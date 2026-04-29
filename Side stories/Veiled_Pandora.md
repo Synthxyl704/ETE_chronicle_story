@@ -149,9 +149,60 @@ Taking advantage, the magician opened the last hatch and jumped inside.
 
 Nex: he must be having a getaway underwater!
 
+Nex: the support team is on their way, head to the deck, prepare to recieve ETE!
+
+## Node 07 - Combat
+
 The ship was becoming a mess as by the time they reached the front deck.
+NTCs naval automatons emerged from the sea like ghosts, their firepower creating a web of supression, keeping the ESW Knights from lifting their heads.
+
+3 meteors streaked across the sky as the NE support team descended from the clouds.
+Crocell, Louise, Alouette.
+
+The syncers are inside the cockpit in their ETEs from where they control em.
+
+![[Pasted image 20260427185317.png]]
+
+...
+
+The battle was at its peak, NTC frantically assaulted the upper deck of the cruise ship.
+Nex: all units focus! the enemy's firepower is focused on the bridge and the banquet hall. 
+Crocell, reinforce the upper defenes, Alouette, cut off their flank!
+
+Loop: wait, assistant.. their barrage is fierce, but they deliberately avoided the heavily defended treasury area of the ESWKs and even the power reactor zones, which could easily lead to explosions, their attack on the deck is just to block our view, the real threat is their fire directed at the armor plating below the waterline on the right side.
+
+Nex: are they trying to sink the ship?
+
+Loop: no, sinking it would take too long, destroying the reactors would be quicker if thy wanted to erase the evidence, they want the ship to tilt sharply to the right, bring up the ship's structural blueprint, whats above 5m from the starboard waterline? 
 
 5m above starboard waterline on GN was the backup waste disposal port.
+
+Loop: i see now, that magician never jumped in the sea, with our radar scanning the surface, hed be shot on sight... hes hiding in that waste disposal port! NTCs attack on the ballast tank is meant to quickly tilt the ship and submerge that disposal port, in this way, the submarine can dock with the hull's hatch underwater and extract the magician without a trace!
+
+Nex: got it! Crocell, keep the shield up and intensify the counterattack, make them think we are still holding our ground. Louise, SONAR scan the underwater signal source, their backup must be nearby! Loop, Alouette, create the DS field and lets dive in! 
+
+...
+
+## Node 08-1
+The visibility in the icy water was minimal, but Louise's ETE "Caesar", equipped with high precision SONAR, left nothing hidden.
+
+Louise: a group lurking underwater just as predicted. 
+
+As loop predicted, a squad of automatons was silently attaching explosives to the ship's right side, below the waterline, a nameless stealth submarine was hovering just below them, stationary.
+
+Alouette: if they pull this off, this ship is going to be on the news tomorrow!
+
+Nexecutor: Strike!
+
+Loop's and Alouette's ETEs shot forward in the water, instantly wiping out the unprepared bomb squad of automatons.
+
+Seeing the mission fail, the submarine turned and began retreating, but then, a sewage vent above suddenly opened and an oval shaped single person escape pod shot out of the vent like a missile, with bubbles trailing from behind, speeding towards the retreating submarine. 
+
+Alouette shot forward and forced the escape pod to make a sharp turn and slam into the ship's keel, meanwhile, Loop had already predicted the submarines route and fired a precise beam through the water, cutting off its recovery arm with precision. 
+
+Seeing no way out, the submarine quickly ditched the magician and dove into the deep sea to escape, the forsaken escape pod spun aimlessly in the water, until it was firmly captured by Crocell. 
+
+Both loop and louise have something that they dont like getting their ETEs wet...
 
 The magician got caught in an escape pod by crocell LOL 
 
@@ -163,8 +214,11 @@ ESW Manager: well thanks, now shouldnt we take back the item? the buyer is waiti
 
 Under article 7 of the HU wartime special provisions, and article 12 of ESWs internal risk control protocol, any asset that attracts uncontrollable military threats must be immediately frozen and transferred to a top level security authority for isolation and review. 
 
+![[Pasted image 20260427190241.png]]
+
 The ESW manager gets shut up by loop anyway.
 
+![[Pasted image 20260427190401.png]]
 
 
 
