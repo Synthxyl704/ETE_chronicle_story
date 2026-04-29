@@ -348,3 +348,240 @@ Kirov: the anger of the people has been quelled by the last heavy snowfall in SD
 Icicle gently stood up and shook her father's veined hand, just as she had done when she was a kid.
 Her father responded with a kind smile. 
 In the corner, unknown flowers were quietly growing.
+
+---
+# 13. Faithless Body
+
+Alerted by the vision in Moswof, the HU immediately convened an emergency joint meeting.
+In the conference room of the NE base, Kana Reinhart was already seated. Bust holograms of representatives from various factions materialized in other empty seats. 
+
+Kana: On february 3rd at 18:33, HU Joint Defense Network detected a high energy plasma cannon fired from the Astral Dome (AD), based on historical analysis and data comparison, this firing behaviour is highly consistent with the Rainbow Ion Cannon, an ultra-long-range tactical weapon used by NTC during the SRW. Given the fact that the emission energy level was only 15% of the known original power, its potential cannot be underestimated.
+The shell followed a curved trajectory towards the northern hemisphere, ultimately striking an abandoned amusement park outside Moswof, capital of SDU. 
+Present at the site were a total of 4 members of the NE Special Ops squad, including nexecutor, stadling subordinate syncer, Velvet, and Svetkina Miko, head of the Moswof Security Bureau.
+In an unknown way, Svetkina activated the energy crystal she carried (matrix) - which completely withstood the plasma cluster's explosion, preventing anticipated damage.
+Aside from Svetkina's death, no more casualties.
+
+**Ram Moses, Chairperson of HU**: Mr. Kirov, please accept our condolences, Mrs. Svetkina was an exemplary official, the HU Council deeply mourns her loss. The Matrix (TM?) is currently in the temporary custody of the NE Squad, we hope you can share its relevant information with the HU.
+
+**Kirov Miko, Chairman of SDU**: Svetkina obtained the matrix privately, i was not aware of it.
+
+**Marco Young, CEO of MARS**: As the chairman of SDU, mr. kirov's response is less than convincing.
+
+**Kirov Miko**: Its true, the secret research was never reported to the committee, i have only just learned about its existence. (this is a lie...)
+
+(Female) **Colotte Farrell, Secretary of CDZ**: The real issue is that the AD had regained combat abilities!
+
+(Male) **Tao Yuanfeng, Chairman of NRA**: NTC does not have the resources or capabilities to fully rebuild the **Vault Orbit**.
+
+(Male) **Kasim Sharif, PM of CFS**: I agree, the control center of NTC was completely destroyed, and most of the core facilities were neutralized, repairing the entire ring would not be easy.
+
+(Male) **Sato Yusuke, CEO of FEE**: This incident has sounded an alarm for us, we dont know who might be next.
+
+**Chairman of NRA**: the NRA will increase monitoring of the AD.
+
+(Female) **Roberta Moretti, Consul of GLR**: back to the matrix, since it can completely resist such a powerful attack, if we can study and replicate it, it will greatly enhance our defense and possibly our key to victory! 
+
+**Ram moses**: thoughts?
+
+**Marco Young**: MARS is willing to serve the HU.
+
+**Kirov**: Agree, MARS has the best scientists and technicals in the HU, they can make the most of the matrix.
+
+(Male) **Jang Seong-hoon, President of ACOC**: I second the motion.
+
+**Kana Reinhart**: dont forget that the matrix's existence is known by the NTC, so will they let theHU just have it? **It is too risky to ship right away to MARS.** It would be better to keep it here at the NE, MARS and other factions can send their research teams here.
+
+**Marco Young**: NE doesnt have the facilities needed for the research, whats the point of simply sending researchers? **Astel, the city of tech** is the only place that qualifies, and everyone knows that.
+
+**Kirov**: MARS sounds really eager to take the Matrix for their own.
+
+**Marco Young**: Studying the Matrix ASAP is for the safety of all mankind! Mr. Kirov please take back that irresponsible comment, or MARS will file formal charges against SDU!
+
+**Ram Moses**: Since there is a disagreement, lets work it through a voting process.
+
+After an unanimous vote, there were 8 votes in favour and 3 against.
+
+**Marco Young**: thank you for your trust, MARS will endeavour to produce satisfactory results ASAP. We will send personnel to escort you upon your arrival on MARS, is that okay Ms. Kana?
+
+(Male) **Alexander Braun, CEO of BIS**: Precisely only the NEs key functions, as the HUs spearhead, im confident we can manage this without an issue, right?
+
+**Sato Yusuke**: Indeed, the NEs nexecutor displayed remarkable prowess during the Bonecrush Island incident, we can expect a seamless execution.
+
+**Kana**: I will make the necessary arrangements. (Marco, things wont go as smoothly as you wish...)
+
+...
+
+![[Pasted image 20260430011827.png]]
+
+2 days later, in MARS No. 3 No-man's island.
+
+Both stikka and louise condemn the land transportation of the matrix.
+
+Louise: If a weapon of (AD level or Ion Rainbow Cannon) could keep firing, NE base would be reduced to rubbles.
+Nex: you can have a little faith in the base's large DS field...
+
+Louise: we're entrusting MARS something as cruicial as the matrix? I really dont have much confidence in Kana's judgement.
+Nex: politics is a delicate stance, sometimes compromise is the only way forward, i thought you were from MARS louise?
+Louise: Ive spent a lot of time in MARS, but it is not my hometown.
+Nex: you dont believe in MARS it seems?
+Louise: humans never impressed me anyway.
+
+Stikka: MARS is the most technologically and economically developed faction in the HU, but behind prosperity there is always devastation, the advancement of times require sacrifice... and we... 
+Louise: spare me stikka, id rather listen to nexecutor's boring questions than your propaganda... dont you think you come across a bit too like our Captain? A young girl's face with a middle aged soul...
+
+Stikka: The route map shows we need to avoid the polluted areas and take a long detour from the south.
+Louise: I think the NTC is watching us closely, even with the matrix inside a shielded container, it cannot be entirely safe. 
+Stikka: it wouldve been great if icicle was here, we couldve used her strength, she hasnt reached us since the mission ended.
+Louise: She needs time. 
+
+In the hinterland of MARS, a clandesine communication is being taken place in the dark:
+
+???: to demonstrate our commitment, we will personally ensure the items are delivered to you.
+Kora: how long until delivery? 
+???: not long, NE is already on MARS territory.
+Kora: **youre sending NE to deliver?** thats interesting? (who is this????)
+???: dont worry, its well set, they will not be able to escape.
+
+![[Pasted image 20260430015314.png]]
+
+Stikka: automatons! IFF confirms its NTC!
+Louise: unbelievable, even in the No man's land, MARS' defense is a joke, theyre letting NTC roam free in their territory.
+
+To the northeast, a string of flares slowly arose, leaving staggering flashes in the sky.
+
+Nex: those are orange flares, arranged in 3/1/3 intervals.
+Louise: its the HU's standard civilian distress signal.
+Stikka: 3 miles away, a hovercraft is being surrounded by the automatons.
+
+...
+
+They saved the hovercraft, the armor plates of the hovercraft retracted.
+
+(main story first encounter, string)
+**String**: hey, this **logo**, wait are you from the NE? 
+???: NE???
+Eclipse: I didnt expect that our saviours would be the NE...
+
+In string's hometown, she and nexecutor did some shit together.
+
+Nex: when i was doing Academic Trials, i spent some time in Amphis' fleet.
+Nex has the **uniform** of NE as noted by string.
+
+String: I can fight too, tho its just an ordinary exoskeleton mecha.
+
+Eclipse gets a bit hurt, louise says: "I didnt sign up for this, and my services are not free."
+
+String: Ive been working on the #2 ship of ACOC. When the ACOC White Star Project started recruiting, I jumped at that opportunity, then i got this shipping gig to MARS w/ eclipse as my partner, gotta say this **first mission's** no cakewalk.
+
+Louise: you a syncer?
+String: nah, this is just some basic body mod the ACOC cooked up to mimic syncers, even our exoskeleton mecha are just run-of-the-mill civillian models, **we** are leagues behind the real syncers and their ETEs, i dream about being a syncer one day!
+
+Louise: the question was for you, Eclipse, your body mod seems different than String's.
+Eclipse: the WSP is still in its experimental phase, so varying levels of mod are to be expected.
+Louise: same **high failure rate** as the syncers surgery (procedures)?
+String: nope, just a **primary reconstructive surgery**, almost NEVER FAILS! Although some people might experience side effects, its incredibly fortunate to even get a mod quota.
+
+Eclipse: we are delivering this batch of goods to Astel.
+Nex: more timely support!
+Stikka: the route map shows we're about to enter Blackrock Canyon, and that the MARS' response team will be there.
+
+...
+
+Louise: we're in the Blackrock Canyon, yet no sign of response team.
+Stikka: tried contacting multiple times, no response.
+Louise: MARS' as unreliable as ever.
+Stikka: Nex, i recommend we keep sentinel mode activated at all times from now on, even though it will drain our energy.
+
+...
+
+NE, the Captain's room.
+Ruler: the NE squad has reached MARS' territory.
+Kana: your IFF has been turned off, stick to the plan strictly.
+Ruler: how to handle potential conflicts during operation?
+Kana: if necessary, you have permission to fire. (??????)
+Ruler: sure?
+Kana: no other choice.
+
+...
+
+String: according to my seniors, there are only some bandits on this route.
+Louise: directions 033 and 152, its a human mecha coordination lineup! theyre attacking!
+Stikka: human macha coord? thats not NTC's style.
+
+Louise: terrain is terrible for defense!
+String: you can give the matrix crate to us, our crago has level III protection, we'd be happy to help.
+
+...
+
+A lone gunmetal gray ETE weaved through enemy formations.
+
+Louise: Bratz? wheres the rest of her team? "Prepare to initiate overload mode. Merge backup energy into the main system."
+
+...
+
+Eclipse: string, why you wanna be a syncer?
+String: the world is a mess, dont you think? Thats why everyone needs heroes, those who become syncers possess such potential to be a hero.
+Eclipse: heroes? theyre just pawns of the factions.
+String: if it aligns with the pawn's wish, whats wrong?
+Eclipse: a pawn doesnt have a soul! A pawn captured by the king will be removed from the chessboard and discarded like trash. String, have you ever been to a garbage dump?
+
+Eclipse: Ah! the ACOC just sent a message, a nearby pass will be opened briefly in 30 minutes. I can take the goods myself, i have transferred the mission reward to your account, pls check it, **youre so much like me in the past...**
+String: your past? what was it like? 
+Eclipse: i had a hero too.. but later.. shes gone. *string apologizes* its okay, people die all the time, we all do.
+
+...
+
+Bratz: MARS' graydeer force has come to join you, we were met by unknown forces on our way here, and im the only fucker who survived.
+
+Louise inserted a portable syringe into her body.
+Louise: hematin complexing agent? why are you still using this?
+Bratz: its the fastest way to restore combat power.
+Louise: you know its side effects, you like the hemodialysis afterwards? *doesnt respond* This is the 2nd time ive rescued you, why not just take some advice?
+
+Nex asks bratz to join the consciousness network.
+Louise: NE nex has temporary command over any syncer during wartime.
+
+...
+
+Louise: something's off, this constant harassment doesnt seem like of someone trying to impede us.
+Stikka: since we left the canyon, we havent had much close firefights.
+Louise: theyre stalling us! check the fucking crate!
+
+*ohio crate empty*
+
+Louise: When we rescued Bratz, they stole it.
+
+When string was checking her account for the mission reward on her account, Eclipse took the crate off the cargo and handed it, there was this empty crate similar exactly to yours on our cargo!
+
+String: this is my first time partnering with eclipse.
+Louise: string was probably handpicked for this mission, wouldnt be hard to figure the connection between her and nexecutor.
+
+(so who was it?)
+
+...
+
+Louise: the hovercraft's ion engine leaves a faint charge. According to the ionization level of the air particles, this way!
+
+![[Pasted image 20260430021425.png]]
+get a load of this motherfucker.
+
+Stikka: we should check that area.
+Louise: topographic map shows that its just rocks and ruins.
+Stikka: i have a gut feeling that we need to see whats there, how about we split into 2 groups?
+
+...
+
+The enemies have the same tattoo on em, a butterfly tattoo.
+Bratz: Monarch Butterfly's thing.
+Louise: a nercernary org?
+Bratz: the MB has always been a major player on MARS, theyre not picky about their clients, as long as the pay is good, theyll take on any job.
+
+Louise implied that string's original partner was killed and was replaced by Eclipse.
+
+...
+
+Stikka finds eclipse in that rocks and ruins, a special device on her wrist which emitted a purple glow was specifically meant for stikka (penumbra?).
+
+****
+
+# 14. Binding Web
