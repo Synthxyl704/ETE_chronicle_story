@@ -180,7 +180,7 @@ Above the equator, at a certain point in the Astral Dome orbit.
 
 **Koyuna Naraku**: Kessler, i authorize the Division #3 to utilize certain Vault's restored functions, Shara, your Divison #13 will provide technical support, this time, we must reclaim what is rightfully for "The Lord".
 
-Kessler: the coordinates are set, lets depoly 50% of the Meteor Force as per protocol, we need to locate the Matrix.
+Kessler: the coordinates are set, lets deploy 50% of the Meteor Force as per protocol, we need to locate the Matrix.
 Shara: the ultra long range data linkage module for the AD is still in debugging. Sending the first batch of probe units like this, we will have to rely on their autonomous configuration. (this sounds like a bunch of nothing) This will hinder full combat effectiveness, kessler, i dont think we should rush, we still have time.
 Kessler: the moment the Matrix's energy signature appeared in Moswof, NE wasnt far behind it, **its hard to believe they werent after the same thing**. Captain Kana's intelligence network runs deep. Moreover, "to verify the feasibility of swiftly penetrating SDUs interior defenses", wasnt this what this batch of probe machines were created for?
 Shara: alright, do as you suggested, i hope they wont be interfered prematurely.
@@ -198,7 +198,7 @@ Kina: with what i know, Velvet couldnt have killed Jack, theres unknown factions
 Kirov: the snow in SDU is about to stop, us hiding in the snowstorm will soon be exposed.
 Kina: i will handle it, whether it was in SDU's crisis... or...
 
-Kirov: how is the research progressing that you mentioned?
+Kirov: **how is the research progressing that you mentioned?**
 Kina: we have now managed to make that "thing" (Matrix) emit energy at a specific frequency, we ae currently preparing to debug the receiving device. Barring any issues, battlefield testing will be possible soon.
 Kina: everything will be alright, rest assured.
 
@@ -213,7 +213,7 @@ Louise: cross referencing and data analysis comparisons confirms authenticity, i
 
 (The reason Icicle's father, Kirov and her sister Kina didnt talk with icicle related to "work" is because both Kirov and Kina knew that they were intentionally establishing distribution channels across the city to introduce dawnlight implants.)
 
-Louise: Jack had conducted some secret investigation onto Kina, and this data package (larp larp larp sahur) repeatedly marked a coordinate in the lower city, video data suggests an underground mine, over the past 2 years, svetkina has been frequenting this place, staying for periods ranging from hours to days.
+Louise: **Jack had conducted some secret investigation onto Kina**, and this data package **repeatedly marked a coordinate in the lower city**, video data suggests an underground mine, over the past 2 years, svetkina has been frequenting this place, staying for periods ranging from hours to days.
 
 ...
 
@@ -355,7 +355,7 @@ In the corner, unknown flowers were quietly growing.
 Alerted by the vision in Moswof, the HU immediately convened an emergency joint meeting.
 In the conference room of the NE base, Kana Reinhart was already seated. Bust holograms of representatives from various factions materialized in other empty seats. 
 
-Kana: On february 3rd at 18:33, HU Joint Defense Network detected a high energy plasma cannon fired from the Astral Dome (AD), based on historical analysis and data comparison, this firing behaviour is highly consistent with the Rainbow Ion Cannon, an ultra-long-range tactical weapon used by NTC during the SRW. Given the fact that the emission energy level was only 15% of the known original power, its potential cannot be underestimated.
+Kana: On **February 3rd** at 18:33, HU Joint Defense Network detected a high energy plasma cannon fired from the Astral Dome (AD), based on historical analysis and data comparison, this firing behaviour is highly consistent with the Rainbow Ion Cannon, an ultra-long-range tactical weapon used by NTC during the SRW. Given the fact that the emission energy level was only 15% of the known original power, its potential cannot be underestimated.
 The shell followed a curved trajectory towards the northern hemisphere, ultimately striking an abandoned amusement park outside Moswof, capital of SDU. 
 Present at the site were a total of 4 members of the NE Special Ops squad, including nexecutor, stadling subordinate syncer, Velvet, and Svetkina Miko, head of the Moswof Security Bureau.
 In an unknown way, Svetkina activated the energy crystal she carried (matrix) - which completely withstood the plasma cluster's explosion, preventing anticipated damage.
@@ -581,7 +581,421 @@ Louise implied that string's original partner was killed and was replaced by Ecl
 ...
 
 Stikka finds eclipse in that rocks and ruins, a special device on her wrist which emitted a purple glow was specifically meant for stikka (penumbra?).
+The ETE lost connection with the syncer and entered a standby state, stikka attempted to resync several times but was with no success, she stumbled to the ground.
+
 
 ****
 
 # 14. Binding Web
+
+![[Pasted image 20260510210137.png]]
+
+In the desolate No man's land on MARS border, stikka struggled against dizziness and could not control her ETE due to spiritual interference.
+
+Stikka: kana's toy?
+Eclipse: "captain kana", what a respectful appellation, i used to call her that too *tosses the matrix in the air playfully* now, it seems like it is your turn, what a... poor pawn.
+Stikka: is there some history between you and the captain?
+
+*Lifts her head and fixes her gaze onto Stikka*.
+
+Eclipse: history? hah! to be precise, it is an indelible hatred, how much I long to... kill her, destroy the NE, and turn her ambition into a laughingstock.
+Stikka: ... 
+Eclipse: do you see? stikka?
+Stikka: no i dont, even the enemies of the NE regard the captain as an opponent worthy of respect.
+Eclipse: even if she exploits everyone around her? even if she...
+Stikka: we are syncers, if this so-called exploitation is a necessary means to achieve our goal, i see nothing unacceptable about it.
+Eclipse: thats because, you! know! nothing! about the truth!!! what exactly do you think a syncer is? a warrior? glory? a messenger of peace carrying humanity's hope? Yes, Kana's brainwashing is always brilliant! Stikka, I pity you.
+Stikka: The Captain cares deeply about the human destiny. Even if you disagree with her, you cannot deny that.
+Eclipse: she only sees the so called "human destiny", what about your destiny?
+Stikka: the meaning of becoming a syncer comes from within us, not from others.
+Eclipse: but, why me? *her voice dropped suddenly to a whisper*
+Stikka: ...what do you mean?
+Eclipse: the meaning, is only for those who survived.
+Stikka: are you talking about those who failed the surgeries? I feel terrible for them, but the march of progress is not without sacrifice.
+Eclipse: ... Sacrifice...
+
+*Her expression contorted to the point of collapse, a strange metallic sheen appeared on one of her exposed arms.*
+
+Eclipse: she once said the same thing to me, is this how she explained it to you?
+Stikka: explain what?
+Eclipse: ugh... ah... i just realized, you and her are so alike... hahahaha! that tone of voice, the way of easing people's hearts, the lofty ideals at the expense of others' lives.
+
+![[Pasted image 20260510211231.png]]
+
+oh my...
+
+Eclipse: just why... you?! hahahaha!! ugh... ahh!!! 
+
+Following eclipse's abnormal behaviour, the purple device on her wrist sparked like a short circuit, stikka immediately realized that the spiritual shock she had been experiencing had vanished.
+
+Stikka: im sorry...
+
+*snatches the matrix out of eclipse's hands*
+
+Eclipse: sooner or later, you will pay the price for your blindness.... you re the next me...
+
+*stumbles away in the opposite direction.*
+
+Stikka: ... 
+
+... 
+
+Bratz: we are now at White Stone Ridge, once we pass through the valley and enter the Windhunt Plains, we will be able to see Astel.
+Louise: the hovercraft's ion engine left trail leads ahead, is she escaping to MARS' hinterland?
+
+A humanoid mecha suddenly leapt out from darkness, bratz reacted swiftly, raising her hand and firing with full force, striking it directly.
+The armor crumbled like an eggshell under the ETEs fire, revealing the pilot inside who died instantly.
+
+Louise: thanks bratz, they already got the matrix, why keep attacking us?
+
+*As louise pondered, string stood frozen, staring at the mangled corpse and large bloodstains on the ground.*
+
+String: there was someone inside the armor? ugh... *vomit*
+*bratz and louise give each other some glances as reaction*
+
+String: we were fighting humans just now?
+Louise: back at the entry of the canyon didnt i say about the Human Mecha Coordination Lineup. you didnt think those mecha were just automatons did you? they are full coverage motorized exoskeletons that require human pilots. Afterall, ETEs arent made willingly, these lower tier military mecha are standard equipment for various small and medium sized military operations and organizations, of course they are much stronger than the civillian exoskeleton you (string) wear. 
+Bratz: generally, only NTC uses pure automatons in combat, many human armed forces use a mix of armored soldiers and automatons.
+
+... 
+
+Louise: the MB has not bad equipment, much better than those of The Brotherhood in Moswof.
+[[Bratz]]: they have branches in all major factions, they are even considered the most powerful among global illegal armed organizations, **rumors say they are funded by certain factions within the HU**.
+String: why? funding what is essentially a terrorist organization, wouldnt that cause more chaos?
+Nexecutor: sometimes things arent that simple.
+Louise: an off-the-books armed group could be a very convenient (channel), especially for those tasks that cant go officially through the HU's official channels.
+Stikka: yeah, ive heard the captain talk about this, **all major factions have their dark side to a degree**, if we look at it that way, it may not be NTC who hired Monarch Butterfly (MB) this time?
+Louise: Yeah NTC is unlikely, with their automatons roaming free in No man's land on MARS, they dont need to do anything extra such as hiring the MB.
+Nexecutor: we better capture one for interrogation.
+
+... 
+
+String: ah! look, a mecha down on the ground, it seems to have malfunctioned.
+Louise: bratz! go dismantle it! we need the pilot alive!
+
+Realizing the syncer's intentions, the mecha pilot climbed out and tried to take his own life (oh damn...). Bratz arrived just in time, skilfully disarming and subduing him.  
+
+![[Pasted image 20260510213115.png]]
+
+String: a kid?
+
+Louise: give your employer's info and i will make it quick.
+???: cut the crap, kill me if you dare, you Union's lackey!
+String: if he gives the info, can we spare him alive? in Amphis, he would be too young to even work, he should not have to live like this.
+Louise: childish idea, if we leave him alive...
+Bratz: he will flee back to inform his group and then organize more people to surround and attack us.
+Louise: Kindness to the enemy is cruelty to teammates.
+
+![[Pasted image 20260510213412.png]]
+
+LOuise: Bratz, tie him up!
+???: tut!
+*springs up from the ground and rushes towards nexecutor.*
+... *i think he suicide-bombs*
+Louise: thanks to the expansion of the DS field's maximum range, it managed to cover you both, if i hadnt reacted quickly, you both wouldve met in next life.
+Nexecutor: that kid chose to die, and wanted to take us with him.
+String: but why...
+[[Bratz]]: these terrorists cannot be understood with normal reasoning.
+Louise: you see string? When misplaced, kindness becomes a weapon that hurts oneself.
+
+... 
+
+Louise: the tracks lead here. 
+
+*after rounding a mountain, the hovercraft finally came to view.*
+
+Louise: nobody's around?
+
+*string opens the access to the cargo hold*
+
+String: no matrix, just goods for shipping...
+Louise: looks like eclipse left these tracks purposefully.
+[[Bratz]]: we have been played.
+Louise: maybe we should have been following stikka? i cant reach her tho, so who knows whats going down.
+Nexecutor: lets head to preset coordinates.
+
+*string ruminates about the war, louise tries to sound brave and confident amidst.*
+[[Bratz]]: (why... how did we end up on the other side...)
+
+... 
+
+Shortly after, the group rendezvoused with Stikka at the preset coordinates.
+
+she got the matrix back.
+
+Louise: i scanned it, the matrix has not been tampered with, how did you manage to snag it stikka?
+
+... 
+
+Stikka: nexecutor, our original plan was to head to area A2, should we still stick to that route?
+Nexecutor: the ambush we faced in the canyon proves our original route has been compromised. [[Bratz]], once we reach the valley's exit, get in touch with your higher-ups, we need them to provide an alternative new route.
+
+... 
+
+![[Pasted image 20260510220908.png]]
+
+After leaving White Stone Ridge (ridges are opposite of valleys btw).
+Bratz established communication with her superior.
+
+Marco Young: Bratz, report mission status.
+[[Bratz]]: yes, we have rendezvoused with the NE squad, but im the only survivor from the response team.
+Marco Young: youre the only one who survived? You... I see.
+[[Bratz]]: our og route compromised, provide alternative.
+MY: initiate the backup plan, head to Output #076, our people will receive you there.
+[[Bratz]]: understood.
+Louise: reporting directly to Marco? looks like the CEO is really invested in this. 
+Stikka: the captain did say that MY has been unusually fixated on the Matrix, might have something to do with his recent military reform proposal to the board.
+Louise: trying to monopolise the matrix and gain leverage through research results? classic marco move. (calls him a self-important politician)
+Stikka: but you are the "technological marvel of MARS", he must have put a lot of effort into you. 
+Louise: effort? please, MARS is the lucky one to have me, only someone like you can be called the real marvel of the Captain's "Hard Work", stikka.
+Stikka: huh, what do you mean by that?
+Louise: nevermind, according to info, Output #076 can provide backup.
+
+...
+
+![[Pasted image 20260510221134.png]]
+
+Stikka: this place has been attacked!
+Louise: mustve just happened, air particle analysis shows the attack occurred within the last hour.
+[[Bratz]]: (How could... this happen?)
+Nexecutor: check for survivors!
+
+*As the NE squad prepared to search the area, another comm was established in Saint York City of MARS.*
+
+???: we have hit a snag in the process. 
+Kora Ein: Oh? Well, i cannot afford to wait any longer.
+???: we have contingency plans, we hope you can wait a bit longer. 
+Kora: no no no, i better step in myself and make things spiced up a little.
+???: ... 
+
+... 
+
+nexecutor: a small flying unit - NTC's scout type automaton!
+
+The drone circle around as if to confirm identities, lowered its altitude, and stopped infront of you, then a voice emanated from it.
+
+Stikka: its Kora Ein!
+Kora: oh, im flattered such a charming lady remembers my voice. 
+Louise: your quick getaway in frontel, so does that mean you want-
+Kora: while i do wantthe matrix, you, my dear, are a captivating subplot in this grand tale.
+
+*As he finished speaking, the hidden drone group was suddenly activated, emitting a strong energy signal and quickly covering the entire outpost*
+
+Nexecutor: elite automatons from the Lava Guard!
+Stikka: damn it, so you are responsible for the destruction here!
+Kora: lets say, escape the "circle of love" i have crafted for you within 10 minutes, and a prize shall be yours! should you falter, and i will randomly target civillian gathering spots across MARS!
+
+... 
+
+Too many enemies, cant find an exit.
+1 minute, 20 seconds left.
+String: there is an unloading channel near the ruins ahead, we can escape through there!
+
+... 
+
+Kora: now, to present your prize- oh! the delivery has arrived! enjoy!
+
+A massive automaton crashed down, **cutting off their escape**, they were surrounded by automatons too.
+
+Stikka: they can ship this kind of weapon to MARS? the Lava Guard must be loaded. 
+[[Bratz]]: (No way... it cant be!) let me take point this time.
+
+... 
+
+(C)Kora: oh my, a beauty of MARS joins the fray, its a whole new ballgame now! youve conquered this level! fear not its not over! another round awaits, may your adventure be exciting!
+
+The voice stopped, and the scout type automaton erupted into a small fireball, plummeting to the ground.
+
+... 
+
+The NE squad was now in post-battle recovery.
+Meanwhile, in a prison cell of Vault orbit, Kessler's furious roars echoed through the void.
+
+Kessler: wth were u thinking? we had a clear shot at the matrix, you had to muck it up, you wish to be crushed my Lord Naraku personally?
+Cora: no no! when Lord Naraku hears of my plan, she will shower me with praise! giving NTC another powerful muscle, isnt that what lord wants to see? dont you agree, kessy?
+Kessler: call me that again, and i will end you myself.
+
+*terminates comm violently*
+
+Shortly after the NE took departure from Outpost #076, an ETE arrived on scene.
+Chisha: what in the world happened here... these bodies, initiate advanced scan protocols. Luminescent dust?
+
+... 
+
+Stikka: bratz, have you briefed MARS about the situation at outpost #076?
+[[Bratz]]: yeah, just did, they reported that all comms at the outpost went dark before we arrived, the attack was orchestrated by an army under Kora Ein's command.
+Nexecutor: he doesnt seem keen on nabbing the Matrix (he did say it was his priority, nexecutor...)
+Stikka: louise, your take?
+Louise: i cant fathom what the Lava Guard's leader is plotting.
+Stikka: Both Monarch Butterfly (MB) and NTC seem to have cracked our concealment methods, could it be... (looks at Bratz)... nexecutor, im concerned.
+Nexecutor: at least the matrix is in our possession.
+String: we have entered MARS inner defense perimeter, less than a hundred (100) kilometers from here.
+[[Bratz]]: that close already?
+Louise: one we deliver the matrix to the Astel Institute, our mission is complete.
+Stikka: since NTC has blocked the route MARS has given us, i have mapped out a new one based on our current situation.
+
+---
+
+# 15. False Words.
+
+NE managed to escape the outpost and went onward towards Astel. 
+
+Meanwhile, in an unassuming factory within the border zone.
+
+Ruler: hi there, Monarch Butterfly's mercenary.
+Eclipse: Glen operative... *her metallic sheen had vanished from her body from earlier.* What do you want?
+Ruler: i want the NE's whereabouts. 
+Eclipse: and why?
+Ruler: Glen and Monarch Butterfly are, lets say, friendly acquaintances, ask your boss and they will fill you in. 
+Eclipse: how is it my concern? 
+Ruler: seems like you are not in a good mood for misplacing your employer's goods.
+Eclipse: i dont do favors for my employer.
+Ruler: Not even for pay? heh, no wonder you got that matrix snabbed. 
+Eclipse: shut it... *After a moment, she tossed in an inconspicuous device to ruler.* They should have reached the inner defense perimeter by now, this is their ETE signal signature demodulator, effective within a 5KM radius.
+Ruler: this demodulator, **looks like a craftsmanship of MARS.**
+Eclipse: im not helping you, only it is just that what i can seize, neither can the NE.
+[[Ruler]]: my sincere thanks! 
+
+... 
+
+![[Pasted image 20260510225726.png]]
+
+Louise: multiple energy signatures detected at seven o'clock, dynamic image analysis identifies them as MB's armed mecha.
+Stikka: how did they discover the backup route? it was just set up!
+Nexecutor: string, take crate to a secure hiding spot, now.
+Stikka - fire suppression 
+Louise - support 
+Bratz - frontline 
+engage and neutralize them before we hit the metropolitan area.
+
+... 
+
+Ruler: there you are.
+
+In an abandoned factory, string nervously monitored the battle outside, suddenly, an unfamiliar ETE crashed through the roof, landing next to the container housing the matrix. even though string open fired, the small cannon on her exoskeleton mecha posed no threat to the ETE's DS field. 
+
+Ruler: this, i will be taking. 
+
+![[Pasted image 20260510230441.png]]
+
+... 
+
+Louise: a syncer snatched the crate!?
+Sikka: string's mission recorder captured images of the syncer and the ETE, but i cannot match any of it to and from our database, could it be NTC's new weapon? 
+Louise: after the SRW, NTC seized ETE production as automatons are way more cost effective than developing ETEs and Syncers. 
+Stikka: doesnt seem MB's doing either, they cant reconstruct the ETE independently. 
+Nexecutor: could it belong to MARS? Bratz?
+[[Bratz]]: ive never seen such a mecha. 
+Louise: infuriating, how many factions are we dealing with now? why is a simple delivery so complicated? 
+String: dont panic just yet. *winks*
+
+... 
+
+Shortly after, ruler travelled some distance, and established communication. 
+
+Ruler: captain, i got the crate, but couldnt complete the mission. 
+Kana: what happened? 
+Ruler: the box doesnt contain the matrix, it is something else entirely. 
+Kana: oh? a simple yet clever ploy. 
+Ruler: i request another attempt. 
+Kana: no, that ship has sailed, stay hidden for now, report their movements to me regularly. 
+[[Ruler]]: yes, mam.
+
+As the communication terminated and ruler began to relocate, an ETE suddenly appeared in her FOV. 
+
+Chisha: halt. 
+Ruler: hmph. 
+
+*gives a long, appraising look to chisha before rapidly going adios into the sky*
+
+[[Chisha]]: a red haired syncer, who is she? 
+
+... 
+
+String led the group to a common scrap pile. 
+
+![[Pasted image 20260510233650.png]]
+
+It was inside an old cargo box. 
+
+Louise: you switch the crate contents? bold...
+string: well i have lost all my payment for sure, but its fine i can make up with another year's work. 
+Louise: i never asked, what goods were they?
+String: its not just cargo, its something that can save lives. 
+Nexecutor: we will help you with compensation. 
+
+*enter Chisha*
+
+[[Chisha]]: I will handle, how much compensation is required? 
+
+String quickly took out a purchase reciept and gave it to Chisha.
+
+String: the box contained was valued a total 145000 (145k) Union Coins in total. 
+[[Chisha]]: i see, allow me to transfer 150k right now, 5k as gratuity for your role in safeguarding our interests, are the arrangements satisfactory?  
+String: woah! so much money! is this the pros of being a syncer? 
+Louise: only Chisha can casually produce over 100k Union Coins, for ordinary syncers... *Sigh*
+
+... 
+
+Chisha accompanied you as you proceeded, en route, she displayed a keen interest in String's goods. 
+
+String: a red haired syncer snatched it away. 
+[[Chisha]]: ah, i met her, we crossed paths briefly, i found her rather peculiar, but regrettably, i failed to intervene. 
+Nexecutor: chisha, is Astel also your destination? 
+[[Chisha]]: indeed, while investigating biological agents, i uncovered leads poining towards MARS, the goods that String was transporting may well be what i seek, a certain powder. Might you be able to procure more of this substance?
+String: given the mishap, i dont think the ACOC will entrust me with another delivery. 
+[[Chisha]]: in that case, i will proceed directly to astel and investigate further. 
+Nexecutor: string, what exactly is this powder? 
+String: idk i just know its some medicine, its got a high demand for it on MARS. 
+[[Chisha]]: there is a symptom in soe people of MARS, its called Crystallinia, it appears as crystal-like things on the patient's body, in severe cases, it can be fatal, especially for the sick and vulnerable, it is said that only medicine made from this powder can cure Crystallinia. 
+Louise: Crystallinia? I never heard of this disease when i was in MARS. 
+
+![[Pasted image 20260510235746.png]]
+damn. 
+
+[[Bratz]]: local bandits, they rob passing caravans. 
+Louise: nexecutor, lets handle this. 
+
+... 
+
+Finally arrived at Astel. 
+![[Pasted image 20260510235921.png]]
+
+Louise: beautiful city indeed, its as renowned as the capital, Saint York City, Astel is MARS' tech R&D hub. It is one of the only 2 cities that employ wide area joint field shield for defense, earning it the nickname "Tech City."  
+String: this shield doesnt look particularly robust...
+Louise: running the field generator at full capacity for just one hour consumes an enormous amount of energy, But is it equivalent to powering all the city's facilities for a week. Thus it usually operates at its lowest setting. For human level threats, this is adequate. 
+
+Louise: while i did spend some time in Astel, i can only guarantee you wont get lost in Astel Institute (meaning she idnt wander or see much of Astel)
+
+Stikka: message from MY. 
+
+MY: members of the NE and Second Lieutenant Bratz, i commend your efforts, it is regrettable that i cannot meet you in person. Please proceed directly to Dagny Institute in Astel District 3 to complete the final handover of the Matrix. 
+
+???: oh there you are. 
+![[Pasted image 20260511000614.png]]
+
+
+A carefree looking girl appeared before you, the consciousness/conspicuous spirit link device on her head identified as a syncer.
+Stikka: huh, halite, what brings you here. 
+Louise: were you sent by MY? 
+String: nexecutor, now that i have arrive in Astel, i will make my way. 
+
+![[Pasted image 20260511000904.png]]LOL 
+
+String: keep in touch nexecutor, see you guys. 
+
+... 
+
+30 minutes later.
+
+Halite: we are now at the research institute, let me tell you, this place is anything but ordinary- 
+
+![[Pasted image 20260511001217.png]]
+
+Enter KORA EIN. 
+
+Kora: i have been awaiting your arrival darlings! Ah! even the Immortal Witch graces us with her presence! 
+
+Halite: whats going on, wheres the Astel's force sheild? why are NTC troops in the city? 
+Nexecutor: halite! connect to spirit link now! 
+
