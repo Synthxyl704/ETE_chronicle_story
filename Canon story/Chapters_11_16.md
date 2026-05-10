@@ -999,3 +999,183 @@ Kora: i have been awaiting your arrival darlings! Ah! even the Immortal Witch gr
 Halite: whats going on, wheres the Astel's force sheild? why are NTC troops in the city? 
 Nexecutor: halite! connect to spirit link now! 
 
+![[Pasted image 20260511002010.png]]
+
+A towering mechanical weapon (mecha) landed midway as they tried to get to open ground.
+
+[[Bratz]]: (This is... Misanthrope...?)
+
+> Nothing much important here, she was just dazed a little from i think that mecha is called "Misanthrope"? she regains her focus and fights back later, obviously she saw or sensed something... 
+
+... 
+
+Chisha: NTC managed to get their war weapons to MARS, is the MARS warning system completely useless? 
+
+Kora: smh, chio my darlings. 
+
+... 
+
+Halite: seems like the crisis is solved, lets handover the matrix quickly. 
+Louise: wait, has anyone seen Bratz? 
+Nexecutor: she has disconnected from the Consciousness Network... 
+Stikka: comms are down too, wait... the matrix-!
+*checks the crate and goes a bit pale*
+Nexecutor: why would she do that?
+Louise: from what i know, shes absolutely loyal to MARS. 
+Stikka: louise? you mustve noticed... 
+Louise: i wont deny she did act a bit sussy before, but it was not enough to raise suspicion. 
+Stikka: what about when you rescued her last time? back then, you must be hiding something? 
+Nexecutor: why cant i follow what you guys are saying...
+Louise: if you have something to say, stikka, say it. 
+Stikka: im not sure about the truth, no point in digging it up, but the way you are covering for bratz, i can consider that a form of- complicity? 
+
+... 
+
+A few minutes earlier, Ruler notices Bratz move to a hidden corner of the battlefield, and actived a visual communication. 
+
+Ruler: ...the syncer of MARS? 
+
+*Trying to adjust the sonic radar, ruler picked a faint voice from their side.*
+
+[[Bratz]]: ive seen that drawing, its my father's research. Sir! your plan will eventually succeed! Why... 
+
+The response in the communication was inaudible, then [[Bratz]] tightly clenched her right hand. 
+
+> for the record, i did not miss anything there about a "Drawing" or anything, i cannot make out what she is mentioning about "drawing" of her father's research, perhaps Misanthrope might be Bratz's father's research at a MARS funded company colluding with NTC. 
+
+[[Bratz]]: you think... none of this requires... right? Even all the members of Graydeer and... in Outpost #076 were... (...)
+
+*As if making  a decision, [[Bratz]]'s eyes moved to the button to end the communication.*
+
+[[Bratz]]: sir... from now on, im no longer your puppet...
+
+*Immediately cut off the comm, boarded her ETE with the crate at her feet, and quickly vanished from sight.*
+
+> Okay im sorry for interrupting frequently, but i think i do know what is going on here, it all makes sense. 
+
+Ruler: she has the matrix! 
+
+*Ruler tries to catch up with Bratz, but failed to notice that an inconspicuous drone quietly was capturing all of this from the air.*
+
+Kora: what an unexpected scenario. 
+
+--- 
+
+# 16. Chain of Suspicion 
+
+Louise: you think im complicit with [[Bratz]]? 
+Stikka: you noticed something off about her didnt you? yet you didnt report it to nexecutor? 
+Louise: i just thought she was troubled, it wasnt worth filing a report over. 
+Stikka: the manual clearly states we must report unusual behaviour from fellow members. 
+Nexecutor: stikka, im sure louise did not mean any harm, after all, no one suspects a friend from the start. 
+
+Stikka: it was louise's cover as a "friend" that let [[Bratz]] take the matrix without realizing! 
+Louise: you are reasoning backward, from the result to the cause. 
+Nexecutor: stop this blame game, its all on us that the matrix was stolen. 
+
+Louise: i dont believe she will act without purpose, i will go after her and make things clear.
+Stikka: yes, im sorry Louise i lost my cool for a second. 
+Louise: im not infuriated over you, im only upset by what [[Bratz]] did. 
+Stikka: nexecutor, comm request from MARS military. 
+
+MY: Greetings to NE, im Marco Young, word is, something unexpected happened at Astel? 
+Nexecutor: Marco, NTC is operating in your territory, you must act at once. 
+MY: im aware, Noah's been infiltrating us for some time, this time yes, **we did slip up on security.** we are already on course of due action. What I care about now is the Matrix being handed over to District 3's research lab. 
+Nexecutor: due to unexpected events, we may not be able to deliver it on the original schedule. 
+MY: oh, thats not what the NE promised, what happened? 
+Nexecutor: we'd like to ask something MY... 
+Louise: seriously, you dont know, Marco Young?
+MY: miss louise, what are you implying? you mean a premier HU force like the NE failed a simple delivery job, are you? (> the audacity, holy shit...)
+Nexecutor: the matrix was stolen by Bratz, syncer from MARS. 
+Marco young: ...excuse me!? Bratz?? you mean she really- 
+Louise: drop the act, youre the one who talk Bratz what to do. 
+MY: i do not quite follow, but yes [[Bratz]] answers to me directly, but she took the matrix on her own, that was not my order, Matrix was bound fo MARS anyway, why would i make it any harder. Also, [[Bratz]] has cut off all communication with me, so, forgive my rude assumption. But, with the NE so fixated on controlling the Matrix, is it not possible that the NE recruited [[Bratz]], to keep it on your own ends? 
+Stikka: that is a baseless accusation! and the NE will not stand for it! Marco, be careful what you say! 
+MY: just my imagination running wild, apologies, id never wish for a break in the HU. So, NE members, please do your duty, track down Bratz and deliver the Matrix safely to MARS, MARS will offer its full support as well, lets aim for the outcome to not let anyone down.
+
+... 
+
+*comm ends*
+
+Halite produced a flower bouquet out of nowhere, but it did not lighten the mood, so "imma just give it to nexecutor then~"
+
+[[Chisha]]: i will be in MARS for a while so i can accompany you guys. 
+Stikka: thank you, great help!
+
+... 
+
+Everyone split up to mop NTCs troops and to find [[Bratz]].
+![[Pasted image 20260511005815.png]]just then, stikka was contacted by Kana.
+
+Stikka: hide the matrix incident, for MARS sake? 
+
+![[Pasted image 20260511005913.png]]
+
+Kana: neither MARS nor me wants to explain all of this to the Union (HU) right now.
+Stikka: but i have doubts about MARS... 
+Kana: forget MY for now, we need to secure the matrix, if not, it will turn into a bigger crisis. 
+Stikka: understood, captain. 
+Kana: by the way, your take on Louise? 
+
+*nothing important, just that kana tells its "intuition*
+
+Stikka: i can always sense small differences between me and the others. 
+Kana: you have natural compatibility with ETE, a born syncer, even Level Zero candidates do not compare. 
+Stikka: but i was made in a lab in FEE. 
+Kana: "human" isnt defined by how you are born, stikka, dont dwell on that! i have always believed you are the future of humankind, dont let self doubt take over. 
+Stikka: (once more, why does the captain believe in me like this?)
+
+*Stikka gave a brief report on "Tanhua", Kana fell silent for a moment.*
+
+> In case youre confused, "Tanhua" is Eclipse from earlier. 
+
+Kana: King (Monarch) Butterfly is a mercenary group formed by prewar exiles, technically, they are wanted by the HU, there is no way to be sure who hired them, as for Tanhua, ive never heard that name or code-name. 
+
+Stikka: i see, just the way she talked about you felt off... 
+
+Kana: i have more enemies than just NTC, many who despise for where i stand. 
+Stikka: anyone who is your enemy is my enemy!
+Kana: appreciate it, hope you will be able to make independent judgements though Stikka. 
+Stikka: ill do my best! i will try to help nexecutor find the lost matrix! 
+Kana: yes, know that i believe in you. 
+
+... 
+
+![[Pasted image 20260511010823.png]]
+
+The group reached louise jsut as she was about leave Astel from its northern passage. 
+
+Stikka: hold on louise, did you catch [[Bratz]]'s trail? 
+
+Without saying a word, louise summoned several holographic screens and swiftly got to work. 
+
+Halite: huh, is that Astel's surveillance network? im from MARS too you know, hacing right infront of me? seriously... 
+
+Soon a video feed showed [[Bratz]] speeding away in her ETE, clutching the container that held the matrix. 
+
+Stikka: this was recorded half an hour ago! 
+Louise: this is the city's Defense Camp, most troops were redirected inside to fight. see? she flipped past the auto sentinels and unlocked the barrier with her access. 
+[[Chisha]]: she went directly north, where does that lead? 
+
+*Halite takes out a terrain map of the region north of Astel*
+Halite: from here, go through the canyon and you will reach the Tabor Plains, home to MARS 2nd Mechanized Division, beyond that base, 700 kilometers up, lies MARS capital, Saint York City.
+Louise: [[Bratz]]'s goal must be SYC! 
+Nexecutor: SYC? while under a full scale warrant? 
+Louise: she must be going after something important to her. 
+
+... 
+
+Halite: automatons here too? 
+Stikka: so much for MARS' reputation in technology and defense, even they couldnt stop NTC. 
+Louise: feels a lot like frontel. 
+Halite: *insert cute halite confused reaction*
+Chisha quickly summarized the frontel case to halite. 
+
+[[Chisha]]: a faction is like a ship at sea, its course depends entirely on the one steering, and Marco is very different kind from his father, hes an ambitious one. 
+Halite: none of you highly think of marco? 
+Nexecutor: you? halite? 
+Halite: i dont have a strong opinion, but the public adores marco, since becoming CEO, his approval ratings have hit record highs. 
+Chisha: his leadership has taken the MARS tech and economy to a new level. 
+Halite: and then? 
+Louise: then maybe you should ask MY how his prized military defenses were breached so easily by Noah (NTC).
+Halite: true, it had **never happened before, back when MARS was weak, NTC did not hold back against our citizens, if you are saying MY colluded with NTC, its unlikely...**
