@@ -1179,3 +1179,274 @@ Chisha: his leadership has taken the MARS tech and economy to a new level.
 Halite: and then? 
 Louise: then maybe you should ask MY how his prized military defenses were breached so easily by Noah (NTC).
 Halite: true, it had **never happened before, back when MARS was weak, NTC did not hold back against our citizens, if you are saying MY colluded with NTC, its unlikely...**
+
+... 
+
+Halite: whew  the area is clear for now. 
+Nexecutor: hey halite, rumor has it that you are popular in MARS' forces, how close are you with bratz? 
+Halite: huh, bratz, not the one for chatting or hanging out, always off on solo assignments, even in Graydeer, most would say she came off as aloof, one night i saw her parkouring in the city's industrial district, she was so flustered ad all, such a cute moment! i swear! Nexecutor, interested? she might be actually easy to win over~ 
+Nexecutor: wait, why are you dragging me into this?!
+Halite: huh? i heard all syncers from the NE are part of the nexecutor's harem, whats one more? (LOL)
+
+![[Pasted image 20260511014050.png]]
+
+Stikka: aghk, aghk!! 
+Nexecutor: seriously, who came up with that ridiculous lie?? (lie? nexecutor you know its true XD)
+Halite: oh, that would be commander Obsidian. (damn shes a hottie tho)
+nexecutor: ... 
+stikka: ...
+[[Chisha]]: oh i will be sure to straighten her out when i see her next.
+Louise: dont go easy on her... 
+
+Halite: ahem, back to topic, the Graydeer unit is made up of people who value duty above all, and Bratz is one of their best, wasnt close to her, but that Graydeer Medal spoke enough, i just cant picture her disobeying and taking a key asset for MARS.
+Louise: unless the MARS is no longer the MARS she believed in.
+
+... 
+
+
+![[Pasted image 20260511020626.png]]
+
+
+*flashback*
+
+Huddled in the rubble, Bratz clutched herself for warmth.
+The heavy steps of an automaton hurled closer and closer. 
+
+![[Pasted image 20260511020716.png]]
+Beneath the ruins, a mother held her 3 year old daughter tightly, sweat beaded in the girl's clenched right hand. Each burt of shellfire made her tremble. 
+
+![[Pasted image 20260511022836.png]]
+![[Pasted image 20260511022854.png]]
+![[Pasted image 20260511022935.png]]
+
+Father: go to sleep, MARS soldiers will come to save us.
+
+*back to present*
+
+The MARS search team faded into the distance, along with the memory. 
+At last, the signal lit up, Bratz rushed to connect.
+
+[[Bratz]]: dad... MARS isnt our home...  please... you have to... 
+
+... 
+
+As the team headed towards SYC, Kessler met up with Kora Ein.
+
+Standing respectfully side by side to each other, reporting their status to the figure on their screen.
+
+Lord Naraku: So the matrix ended up with a syncer? 
+Kessler: yes, one from MARS' forces. 
+
+![[Pasted image 20260511023715.png]]
+
+Kora: the deal we had fell apart in such a bizarre way, trly infuriating. 
+Naraku: whatever happens, MARS must be final stop, find the Matrix, then, its time to toll the death knell. 
+Kessler: my lord, has our plan succeeded? 
+Naraku: shara's experiment is nearing completion, and so is the fate of inferior humanity, if you fail again, join the rest of these insects, i will spare you for now, complete your tasks.
+
+... 
+
+Kessler: i will handle the NE, you go find Bratz. 
+
+... 
+
+![[Pasted image 20260511025857.png]]
+
+Stikka: the enemy is moving forward towards sector 177!
+Halite: damn, the quarantine zone, there are a ton of Crystallinia patients there! 
+Nexecutor: are they trying to stall us? 
+[[Chisha]]: if is crystallinia, then i must go there immediately. 
+Louise: nexecutor, im going away for a bit. 
+Stikka: where are you going? 
+Louise: at my access level, i believe no report is required for this. 
+Stikka: then, nexecutor-
+Nexecutor: go ahead. 
+Stikka: eh-? 
+Nexecutor: i trust Louise and her reasons, just stay safe. 
+
+... 
+
+Nexecutor: stikka, you have to learn to trust your teammates. 
+Stikka: actually, i...i just.. okay. 
+
+...
+
+![[Pasted image 20260511030411.png]]
+
+Stikka: civillian up ahead! 
+Nexecutor: a girl? what is she doing out here?
+
+![[Pasted image 20260511030448.png]]> who is that??? 
+
+A young girl walked with a gentle smile, seemingly oblivious to the danger around her, as if she might vanish in a flash against the automatons fire. 
+
+[[Chisha]]: cover me, im going to get her. 
+
+... 
+
+Halite: wait, where did that girl go? 
+Stikka: im not picking up any traces, its like- 
+[[Chisha]]: like she vanished into thin air. 
+Stikka: and also, did you of you feel something weird? 
+Halite: a ghostly smile in the middle of a firefight? its spooky! 
+Stikka: is that all it was? 
+[[Chisha]]: unusual, yes, but thats not what im going to focus on for now. 
+
+Halite: youre going in to investigate the crystallinia patients? Youre not even from MARS... 
+[[Chisha]]: the origin of the disease,the root of this nightmare, ive been chasing this unanswered question since many, many years.
+
+> let me fill you in (no homo), basically shes an immortal witch, a disease of this spread in her village which was located in a mountain inside NRA, she was infected with crystallinia's "paralysis" as well, but she made a recovery through drinking "Divine Water" which also made her immortal and stopped her ageing when she turned 16, although this evidently did not work for other villagers, so they deemed her a "witch" and that burning her down could only save the village.  
+
+
+[[Chisha]]: do you remember dawnlight from your time in SDU? 
+Stikka: of course, deneb later analyzed it, traces of Dagny altered particles were detected.
+[[Chisha]]: i found similar substances in the biochemical samples from my investigation in Frontel, now, those same Dagny altered particles have shown up in the powdered drug used to treat Crystallinia. 
+Nexecutor: where did that drug come from? dont tell me its kosri... 
+[[Chisha]]: It is a biotechnology firm called **Saracen**, but its ties with Kosri are very close. They are more than business partners, they share ownership and work together often. Yes nexecutor, Kosri and Saracen are just pawns on the surface, my evidence suggests MARS is the pwer behind Kosri, as for Saracen, i believe NTC is pulling its strings. 
+
+Nexecutor: ... chisha how sure are you about this? 
+[[Chisha]]: i need solid proofs, but my instinct tells me its true. 
+Halite: that means, MARS is working with NTC... 
+Stikka: doe that imply that MARS has a hand in the attack on the nexecutor? 
+[[Chisha]]: that part is not verified, so im sorry, will be splitting off now. 
+Nexecutor: chisha, your investigation matters, it will help s greatly, please keep in touch. 
+[[Chisha]]: i will reach out after i finish in here. 
+Halite: hey, i will escort you, i have my MARS military credentials, i also want to see what MARS and NTC are upto, i didnt serve all these years for this mess. (chisha's chill w it)
+
+... 
+
+> 16-12
+
+Stikka: Huh? NTCs automatons just pulled back all at once! 
+Nexecutor: whats happening here... 
+
+A few minutes earlier.
+
+Louise: there you are. 
+
+Inside the hovercraft, Kessler stared in shock at the ETE aiming its glowing barrel directly at her. 
+
+*she slowly raised both hands to detain*
+
+Kessler: louise, of the NE? how did you track me out?
+Louise: with all that automaton's data flooding in, not hard to notice. 
+Kessler: you can detect dagny field pulses? 
+Louise: that is what youre focusing on? 
+Kessler: what are you? no way NE has this level of technology. 
+Louise: doesnt matter, what does is your consciousness frequency code. 
+
+> great, now theres consciousness frequency code too, i think it got introduced a little too early guys!! haha!! 
+
+Kessler: why would you want that!? Noah's (NTC) never- 
+Louise: 2 options, hand it over, or i will hack your neural interface and pull it myself. 
+Kessler: bold of you to think that is enough to stop me- wait what? 
+
+*Kessler froze mid smirk, as if receiving sudden transmission.*
+
+Kessler: (emergency retreat...?)
+Louise: ugh, what you mumbling, my patienc-
+
+*Before louise could finish, an unseen force burst from the hovercraft, sending louise's ETE into moentary chaos, kessler felt the jolt too.*
+
+Kessler: ("that one" stepped i personally...?)
+
+*By the time louse got up again, the hovercraft roared and left.*
+
+Louise: just now, what was that? that energy, it felt familiar and repulsive. 
+
+... 
+
+16-14
+
+![[Pasted image 20260511033921.png]]
+
+High above the Tabor Plains, MY's personal aircraft streaked through the sky at a high speed. 
+
+Assistant: we have locked down the area along with [[Bratz]]'s route, sir, the MARS 2nd Mechanized Division has also sent reinforcements for the pursuit.
+MY: get them moving faster! i want her stopped outside SYC! 
+
+*The aircraft suddenly decelerated violently, slamming MY into his restraints.*
+
+Pilot: sir! the flight control system has been hacked! we are being forced into landing. 
+
+*The aircraft lands onto Tabor Plains.*
+
+MY: damn it, who did this?
+Assistant: all units on alert, protect the president! 
+
+*Surrounded by guards and escort, MY exited down the craft swiftly.*
+
+Not far off, a silver haired girl sat atop her ETE lazily swinging her legs. 
+
+Marco Young: Louise Clara?
+Louise: long time no see, marco. 
+
+*Marco forced a fake smile on his face and relaxed a little.*
+
+MY: i should have known, who else culd hack my aircraft this easily.
+Louise: give me [[Bratz]]'s tracking data. 
+MY: is that a request from NE or from your personally? 
+Louise: what are you implying? 
+MY: given your personal rapport with [[Bratz]], i have to consider all potential risks, but if you agree to return to MARS, then its not an issue.
+Louise: return to MARS? hah- dream on, getting real close the NTC nowadays, did they give you a teat for your loyalty? 
+MY: haha, louise, you really do have a sense of humor, i take it Kana's offer pleased you.
+Louise: thats right, at least i dont have to deal with arrogant idiots or power hungry fools over there, so what will it be MY? the data or your neck? 
+MY: threatening me? are you sure about this? Chief Strategist of the NE? 
+Louise: why on earth will i handle this with my own hands? all i need is one report to the HU exposing MARS' ties with NTC, and chairman Kirov from SDU will be the first to push for your execution. 
+MY: with zero proof? you are welcome to try, louise. 
+Louise: (stubborn bastard...) MY, i dont know what game youre playing, but [[Bratz]] is just a pawn to you, i will take her, and you get the Matrix, study it, sell it, do whatever, i will not interfere.
+
+MY: hah, i dont get your motives, but you convinced me! here is the intel on [[Bratz]], lets hope you dont disappoint. 
+Louise: see you marco, i will find her first.
+
+... 
+
+(16-15)
+
+Stikka: nexecutor, the reinforcements are now inside MARS' borders, they should catch up with us shortly. 
+Nexecutor: do we know who is coming? 
+Stikka: no, they didnt open the comm channel, maybe suzuran or mukuge. 
+
+... 
+
+(16-16)
+
+Stikka: nexecutor, still no response from louise. 
+Nexecutor: no worries, she will be fine. 
+
+*Lowers her head, lashes quivering slightly, her expressin tinged with quiet sorrow.*
+
+Stikka: you believe in louise, dont you, nexecutor?
+Nexecutor: everyone relies on her a lot. 
+Stikka: but me, even as Vice Officer, i rarely play a key role when it matters most. 
+Nexecutor: stikka, you have already done well. 
+Stikka: even you nexecutor...
+Nexecutor: what's wrong? 
+Stikka: i always fall behind others... and my decisions are often careless, but the Captain has never blamed me, it might not be otolerance, maybe she simply didnt expect anything more from me. 
+Nexecutor: what makes you think that stikka? 
+Stikka: because even all my effort, im the same as the rest, born from an artificial womb, naturally attuned to ETE, carrying the hopes of researches... I became VP thanks to that identity, but no one really believes in me... 
+Nexecutor: does that mean you never wanted this position, stikka? 
+Stikka: the captain never asked me that when she gave me this duty.
+Nexecutor: what do you feel deep down? 
+Stikka: honestly, i havent figured that out yet, but louise once said, the VP should be the most reliable one, in any crisis, people feel reassured just by knowing she is there... 
+Nexecutor: everyone really likes you. Things always feel calmer when you are around.
+Stikka: but earlier, with louise... i believed we were allies, but maybe she has never really liked me... 
+Nexecutor: no way, louise has praised you before, you know. 
+Stikka: huh...? really? what did she say?
+Nexecutor: "Stikka? totally solid, just dont let her cook anything."
+Stikka: you feel the same way nex? 
+Nexecutor: of course. 
+Stikka: then do you like me too? like everyone else does? 
+Nexecutor: uh well... 
+Stikka: no denial? i will take that as a yes! 
+Nexecutor: this conversation took a strange turn. 
+Stikka: yay! i feel totally powered up again. 
+
+Just a little affirmation cleared the clouds from her face, those smiling eyes held a childlike innocence and joy.
+
+> Ah, so this is what they mean when they say "a STEM guy tries writing an emotional story". Wow.
+
+To be continued...
+
+
+
